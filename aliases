@@ -1,0 +1,4 @@
+alias gs="git status"
+alias style="bin/style --include-branch-commits"
+alias check="bin/style --include-branch-commits;bin/srb typecheck -a"
+alias b=bundle
