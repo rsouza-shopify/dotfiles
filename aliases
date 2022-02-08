@@ -1,4 +1,7 @@
 alias gs="git status"
+alias gl="git pull"
+alias gco="git checkout"
+alias gd="git ds"
 alias style="bin/style --include-branch-commits"
 alias check="bin/style --include-branch-commits;bin/srb typecheck -a"
 alias b=bundle
